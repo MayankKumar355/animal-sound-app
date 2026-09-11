@@ -1,0 +1,6 @@
+{
+  "name": "Animal Sounds",
+  "description": "Kid-friendly animal sound app featuring All, Wild, Domestic, and Birds categories with smooth audio playback transitions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
